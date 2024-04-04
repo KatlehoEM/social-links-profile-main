@@ -1,0 +1,53 @@
+body{
+    font-family: "Inter", sans-serif;
+    font-size: 14px;
+    background-color: hsl(0, 0%, 8%);
+    color:hsl(0, 0%, 100%);
+
+}
+.container{
+    margin:0 auto;
+    width:50%;
+    height:90vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.card{
+    padding:20px;
+    text-align: center;
+    border-radius: 10px;
+    background-color: hsl(0, 0%, 12%);
+}
+
+img{
+    width:70px;
+    height:70px;
+    border-radius: 35px;
+}
+.large-text{
+    font-weight: 600;
+    font-size: 20px;
+}
+.small-text{
+    font-weight: 400;
+    color:hsl(75, 94%, 57%);
+}
+
+.card a{
+    display: block;
+    padding:10px;
+    margin-bottom:16px;
+    border-radius: 5px;
+    color: hsl(0, 0%, 100%);
+    background-color: hsl(0, 0%, 20%);
+    text-decoration: none;
+}
+.card a:hover{
+    color: hsl(0, 0%, 12%);
+    background-color:hsl(75, 94%, 57%);
+}
+
+.attribution{
+    text-align: center;
+}
