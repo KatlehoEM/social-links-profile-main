@@ -1,10 +1,8 @@
 # Social Links Profile
 
-<<<<<<< HEAD
 ![Design preview for the Social links profile coding challenge](./assets/images//desktop-preview.jpg)
-=======
+
 This is a Social Links Profile component created for Frontend Mentor's challenges.
->>>>>>> 2a920ef7dea03328ef6cd1cee58544755f2c29d4
 
 ## Overview
 
