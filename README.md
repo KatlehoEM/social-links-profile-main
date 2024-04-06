@@ -12,7 +12,7 @@ The Social Links Profile component allows users to display links to their variou
 
 - Display icons for various social media platforms
 - Links to user's profiles on each platform
-- Visually appealing layout
+- Visually appealing layout and aesthetics
 
 ## Technologies Used
 
